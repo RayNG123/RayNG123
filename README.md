@@ -1,6 +1,6 @@
 # Hi There, This is Yusen(NG) Wu! 👋
 
-I'm a dedicated rising senior undergraduate student at Questrom School of Business in Boston University 🎓, currently undertaking a challenging dual degree program in 1) Mathematics with Specialty in Statistics 📈 and 2) Business Administration with Concentation in Business Analytics 💼. This enriching academic journey allows me to blend the analytical rigor of data with the strategic facets of business.
+I'm a dedicated rising senior undergraduate student at Questrom School of Business in Boston University 🎓, currently undertaking a challenging dual degree program in 1) Mathematics with Specialty in Statistics 📈 and 2) Business Administration with Concentation in Business Analytics 💼. This enriching academic journey allows me to blend the analytical rigor of data with the strategic facets of business. I am also working as a research assistant in [BIT LAB](https://www.leedokyun.com/bitlab.html).
 
 ## My Interests 😃
 
